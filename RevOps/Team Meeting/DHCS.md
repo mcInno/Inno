@@ -15,7 +15,7 @@ Hi DHCS PACE Team,
 
 We’re ready to begin receiving PACE referral leads for our California locations. Could you please confirm the current process for accessing these leads via SDES? Specifically:
 
-- Can we receive the Weekly Plan Files (WPF) via API or SFTP?
+- Can we receive the Weekly Plan Files (WPF) via API ?
 - If not, we’re prepared to download the files manually from the SDES portal.
 - Please advise on the required steps to activate or confirm our access, including any forms or technical setup needed.
 
