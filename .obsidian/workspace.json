@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7287cdf0d3e1251",
+        "id": "c95c8f4128a9917e",
         "type": "tabs",
         "children": [
           {
-            "id": "d47800431bc53305",
+            "id": "953c56e30940e32f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RevOps/11.5 - Insight CRM views for reporting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "11.5 - Insight CRM views for reporting"
             }
           }
         ]
@@ -174,8 +178,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d47800431bc53305",
+  "active": "953c56e30940e32f",
   "lastOpenFiles": [
+    "RevOps/11.5 - Insight CRM views for reporting.md",
+    "FMO Broker/e123 Portal/11.4 Commission statement portal navigation and FMO communication strategy.md",
+    "Project Assets/DHCS/Weekly Plan Files Layout Sample with change - 04-24-20.docx",
+    "Project Assets/DHCS/SDES_New_Account_Request_Form_03_10_20 (1).doc",
+    "Project Assets/DHCS/SECURED_DATA_EXCHANGE_SERVICE_(SDES)_-_USER_GUIDE 10-1-2018.pdf",
+    "Project Assets/DHCS/email2.pdf",
+    "Project Assets/DHCS/email3.pdf",
+    "Project Assets/DHCS/email1.pdf",
+    "Project Assets/DHCS",
     "RevOps/11.4 - Insight UAT Testing.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.3 - 1573 InnovAge Daily TouchBase - Tuesday.md",
     "FMO Broker/Commissions/11.4 - Commissions - Agents and Participant Adds from off-system.md",
@@ -201,18 +214,9 @@
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.31 - Implementation Status Update (e123-InnovAge).md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/10.31 - FMO Broker sales touchpoint.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/10.14 updates.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/10.17 FMO Sales touchpoint.md",
     "RevOps/Team Meeting/10.31 - Weekly Review of Enrollment Projects + Plans to Meet-Exceed Budget.md",
-    "Enrollment/Data_Analysis/Enrollment_Data_Analysis_Summary.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.30 - 1573 Daily Standup e123.md",
     "Project Assets/INN_LogoTag_RGB.png",
-    "Project Assets/expired.html",
-    "Project Assets/30days.html",
-    "Project Assets/e123 User Guides/e123_Documentation_ToDos_v1_20230615.pdf",
-    "Project Assets/e123 User Guides/e123_Documentation_Email_SMS_Setup_v1_20230427.pdf",
-    "Project Assets/e123 User Guides/e123_Documentation_Agent_Registration_v1_20240515.pdf",
-    "Project Assets/e123 User Guides",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
     "Project Assets/What Is DMAIC_ _ Process News.png",
