@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7836e4ac416d1e4d",
+        "id": "e5c380b2e42533d3",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa2ef86e7296251",
+            "id": "f078ddd2aec38d38",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,8 +174,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6aa2ef86e7296251",
+  "active": "f078ddd2aec38d38",
   "lastOpenFiles": [
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.6 - 1573 InnovAge Daily TouchBase - Thursday.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.5 Lead Creation Date Issue.md",
     "RevOps/Team Meeting/DHCS.md",
     "RevOps/Team Meeting/11.5 - Leads from DHCS.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.5 - 1573 InnovAge Daily TouchBase - Wednesday.md",
@@ -210,8 +212,6 @@
     "RevOps/Team Meeting/11.3 Rev Ops Team Meeting.md",
     "RevOps/11.3 - Control Meeting Flow.md",
     "Enablement/11.3 Outreach Specialist Sales Playbook Development Plan.md",
-    "Enablement/OS Playbook Development - Jennifer Tremble.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/10.31 - Implementation Status Update (e123-InnovAge).md",
     "Project Assets/INN_LogoTag_RGB.png",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
