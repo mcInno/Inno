@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c380b2e42533d3",
+        "id": "039e3fa09ecd0572",
         "type": "tabs",
         "children": [
           {
-            "id": "f078ddd2aec38d38",
+            "id": "9f59a093bbdb6746",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dhcs",
+                "query": "pilot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +174,19 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f078ddd2aec38d38",
+  "active": "9f59a093bbdb6746",
   "lastOpenFiles": [
+    "FMO Broker/Commissions/Weekly Touchpoints/11.7 - Broker Channel Team Call.md",
+    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.7 - Implementation Status Update (e123_InnovAge).md",
+    "Enrollment/QA/Enrollment Sampling Audit Take 2.md",
+    "Enrollment/QA/11.7 - Enrollment Pilot Audit.md",
+    "Enablement/OS Playbook Development - Michael Martinez.md",
+    "Enrollment/QA/Enrollment Sampling Audit Take Analysis.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "Enrollment/Weekly_Budget/11.7 - Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
+    "Enrollment/Weekly_Budget/10.24 Weekly Review of Enrollment Projects + Plans to Meet_Exceed Budget.md",
+    "Enrollment/Weekly_Budget",
+    "Enrollment/Process/11.7 Training_RN + Enrollment Process.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.6 - 1573 InnovAge Daily TouchBase - Thursday.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.5 Lead Creation Date Issue.md",
     "RevOps/Team Meeting/DHCS.md",
@@ -201,17 +212,6 @@
     "FMO Broker/e123 Portal/Weekly Broker Trainings/10.28 Broker Portal Training Sheri.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Untitled.md",
     "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/11.4 - MA Broker Updates.md",
-    "Enrollment/Contact Center_Inside Sales/11.3 - Inside Sales Staff Meeting.md",
-    "Project Assets/INN_Broker_Handbook_R10_11042025.pdf",
-    "FMO Broker/Commissions/Weekly Touchpoints/11.4 - AP Payments 11.1 Enrollments.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/11.3 - Sheri Reports.md",
-    "FMO Broker/Commissions/11.3 - Pre-Contracted Agents Commissions Prep.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.3 - 1573 InnovAge Daily TouchBase - Monday.md",
-    "Enrollment/Process/11.3 Training_RN + Enrollment Process.md",
-    "Enablement/11.3 Glen's OS Training transcript.md",
-    "RevOps/Team Meeting/11.3 Rev Ops Team Meeting.md",
-    "RevOps/11.3 - Control Meeting Flow.md",
-    "Enablement/11.3 Outreach Specialist Sales Playbook Development Plan.md",
     "Project Assets/INN_LogoTag_RGB.png",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
