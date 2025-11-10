@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "039e3fa09ecd0572",
+        "id": "d3338212fdfbd595",
         "type": "tabs",
         "children": [
           {
-            "id": "9f59a093bbdb6746",
+            "id": "759a652bcc002ffa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pilot",
+                "query": "bonus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +174,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9f59a093bbdb6746",
+  "active": "759a652bcc002ffa",
   "lastOpenFiles": [
+    "RevOps/Team Meeting/11.10 - Backlog Refinement.md",
+    "Enrollment/Field Sales/11.10 - Bonus Plan Deep Dive.md",
+    "Enrollment/Field Sales/Bonus Deep Dive.md",
+    "Data Team/11.10 - Biweekly SMS Check-in.md",
+    "RevOps/Team Meeting/11.10 - Rev Ops Team Meeting.md",
+    "RevOps/Team Meeting/11.3 Rev Ops Team Meeting.md",
     "FMO Broker/Commissions/Weekly Touchpoints/11.7 - Broker Channel Team Call.md",
     "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.7 - Implementation Status Update (e123_InnovAge).md",
     "Enrollment/QA/Enrollment Sampling Audit Take 2.md",
@@ -206,12 +212,6 @@
     "Project Assets/DHCS/email1.pdf",
     "Project Assets/DHCS",
     "RevOps/11.4 - Insight UAT Testing.md",
-    "FMO Broker/e123 Portal/Portal Training/Daily Stand-ups/11.3 - 1573 InnovAge Daily TouchBase - Tuesday.md",
-    "FMO Broker/Commissions/11.4 - Commissions - Agents and Participant Adds from off-system.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/11.4 Broker Portal Training Sheri.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/10.28 Broker Portal Training Sheri.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Untitled.md",
-    "FMO Broker/e123 Portal/Weekly Broker Trainings/Touchpoints/11.4 - MA Broker Updates.md",
     "Project Assets/INN_LogoTag_RGB.png",
     "Project Assets/image.png",
     "Project Assets/image (1).png",
